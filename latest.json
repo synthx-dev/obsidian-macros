@@ -1,13 +1,14 @@
 {
   "tag": "release-1.0",
-  "checksum": "83ccc3c9b50fae73d02f01f710baa51d",
+  "checksum": "2184a0228bc40df4bf9a6b133872b3a4",
   "assets": [
     {
-      "name": "fishing.exe",
-      "download_url": "https://github.com/synthx-dev/om-macros/releases/download/release/Obi.png"
+      "name": "Obsidian Macros - FxSkillCheck.exe",
+      "download_url": "https://drive.usercontent.google.com/download?id=1qcBy7rRL1mFY1JwsNi9t6q3J3xSiMKiV&export=download&authuser=0&confirm=t&uuid=f5024434-007c-4bd7-bca7-f3dec7414943&at=ALWLOp64Qpdwq1-hq6AhPhMMI8s3%3A1763221649802"
     }
   ]
 }
+
 
 
 
