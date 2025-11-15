@@ -1,6 +1,6 @@
 {
   "tag": "release-1.0",
-  "checksum": "a3775f2566db121f6000378ddfd1ca08",
+  "checksum": "83ccc3c9b50fae73d02f01f710baa51d",
   "assets": [
     {
       "name": "fishing.exe",
@@ -8,6 +8,7 @@
     }
   ]
 }
+
 
 
 
