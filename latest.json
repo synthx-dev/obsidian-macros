@@ -1,6 +1,6 @@
 {
   "tag": "release-1.0",
-  "checksum": "85e28bc18148d09c68a839e9579d7fa5",
+  "checksum": "24cb89f32624c7e90d756f519141de33",
   "assets": [
     {
       "name": "Obsidian Macros - FxSkillCheck.exe",
@@ -8,6 +8,7 @@
     }
   ]
 }
+
 
 
 
